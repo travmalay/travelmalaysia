@@ -225,7 +225,7 @@ mysqli_close($conn);
 
 <div class="container jumbotron">
 
-			<?php $connect = mysqli_connect("localhost", "root", "", "rating");?>
+			<?php $connect = mysqli_connect("remotemysql.com", "ajmd18BDuK", "TEro6fE2x9", "ajmd18BDuK");?>
 			<?php
 				$query = "SELECT * FROM community ORDER BY id ";
 				$result = mysqli_query($connect, $query);
