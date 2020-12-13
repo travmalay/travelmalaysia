@@ -1,0 +1,15 @@
+span {
+  color: crimson;
+}
+#logoname {
+  font-family: "Piedra", cursive;
+  color: black;
+}
+
+.text-responsive {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+/*logo and name*/
+
+#logoname {
+  font-family: "Piedra", cursive;
+}
+
+span {
+  color: crimson;
+}
+
+/*choosing destination*/
+
+.text-responsive {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
