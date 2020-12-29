@@ -1547,7 +1547,7 @@
  
   <!--like plugin-->
  <!-- LikeBtn.com BEGIN -->
-<span class="likebtn-wrapper"></span>
+<span class="likebtn-wrapper" data-theme="custom" data-btn_size="35" data-icon_l_c_v="#0534fb" data-icon_d_c_v="#fb054f" data-identifier="item_1"></span>
 <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 <!-- LikeBtn.com END -->
 <br><br>
