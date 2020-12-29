@@ -53,7 +53,7 @@
 
       <!--facebook like-->
       <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v9.0" nonce="l01Wn7OD"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v9.0" nonce="nz6DTTEf"></script>
     <!--logo and name-->
 
     <div class="jumbotron jumbotron-fluid" id="logoname">
