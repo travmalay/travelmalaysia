@@ -1546,7 +1546,10 @@
   <p class="lead">If you find these informations valuable and if it helps you to make your travel hassle free then please do not forget to press the like button and comment your experiences here</p>
  
   <!--like plugin-->
-  <div class="fb-like" data-href="https://travelhmalaysia.000webhostapp.com/kl.php" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+ <!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
 <br><br>
    <!-- Go to www.addthis.com/dashboard to customize your tools -->
    <div class="addthis_inline_share_toolbox_ssp4"></div>
