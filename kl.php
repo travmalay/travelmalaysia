@@ -51,9 +51,7 @@
   <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=785790285105320&autoLogAppEvents=1" nonce="De6IImIY"></script>
 
-<!--like-->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v9.0" nonce="muhjWCy2"></script>
+
 
 
     <!--logo and name-->
@@ -1546,7 +1544,7 @@
   <p class="lead">If you find these informations valuable and if it helps you to make your travel hassle free then please do not forget to press the like button and comment your experiences here</p>
  
   <!--like plugin-->
- <!-- LikeBtn.com BEGIN -->
+  <!-- LikeBtn.com BEGIN -->
 <span class="likebtn-wrapper" data-theme="custom" data-btn_size="35" data-icon_l_c_v="#0534fb" data-icon_d_c_v="#fb054f" data-identifier="item_1"></span>
 <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 <!-- LikeBtn.com END -->
