@@ -689,11 +689,11 @@
                         <p class="para">
                         Kilim Geoforest Park is a place with Mangrove Forests, Million Years Old Fossils, Islands & Beaches, Amazing Caves and many more. Located at the east-side of Langkawi Island and about 20 minutes from Kuah Town, Kilim Geoforest Park is home to a sprawling mangrove forest and ancient gigantic limestone rocks formations rising from the river bed, formed some 500 million years back. The beauty of Kilim lies in its diverse natural geological, biological and cultural resources with high heritage value. It is also unique because it's the only place in Malaysia where one can find a coexistence of coastal karst and mangrove ecosystems. 
                         </p>
-                        <p>VISITING <span>HOURS</span></p>
+                        
                         <ul class="list-group para">
                            <li class="list-group-item list-group-item-secondary">
                              <p>ABOUT <span>GEOFOREST PARK</span></p>
-                             <br>
+                             
                             <p>
                               A place with an ancient geological heritage, countless natural wonders, home to a myriad of flora and fauna, and a vibrant local community of Kilim Village. Kilim Geoforest Park (or Kilim Karst Geoforest Park as its full name) is one of the three geoforest parks associated with the Langkawi Geopark. The other two are the Machinchang Cambrian Geoforest Park and The Dayang Bunting Marble Geoforest Park.
 
@@ -707,7 +707,7 @@
                           </li>
                            <li class="list-group-item list-group-item-primary">
                              <p>BEAUTY OF <span>KILIM GEOFOREST PARK</span></p>
-                             <br>
+                             
                             <p>
                               Not so long ago, Kilim was a laid back place where people’s activities are connected mainly to small scale fishing. Today, Kilim can be regarded as the most successful ecotourism destination in Langkawi where economic activities have vastly improved.
 
@@ -722,6 +722,7 @@
                             
                           </li>
                           <li class="list-group-item list-group-item-secondary">
+                            <p>VISITING <span>HOURS</span></p>
                             <p>
                               Everyday from 8am to 6pm 
                             </p>
