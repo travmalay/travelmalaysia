@@ -687,16 +687,47 @@
                         </div>
 
                         <p class="para">
-                      'Maximize your experience with the natural and cultural heritage of the Langkawi UNESCO Global Geopark in this half-day cruise that combines wildlife observation, cave exploration, and mangrove ecology awareness! Starting out from the Tanjung Rhu Jetty, a local expert will take you out for a scenic ride along three rivers: Tanjung Rhu, Kisap, and Kilim. Depending on the tide, you’ll get to visit the Crocodile Cave or bat cave, before heading to the Fish Farm. Throughout the cruise, you’ll pass by sheer limestone cliffs, fiords, sea stacks and other stunning Karst formations formed by rain and tidal movements. You'll also get a chance to spot strange aquatic creatures like ambulatory fish (a type of fish that can move on land for extended per'
+                        Kilim Geoforest Park is a place with Mangrove Forests, Million Years Old Fossils, Islands & Beaches, Amazing Caves and many more. Located at the east-side of Langkawi Island and about 20 minutes from Kuah Town, Kilim Geoforest Park is home to a sprawling mangrove forest and ancient gigantic limestone rocks formations rising from the river bed, formed some 500 million years back. The beauty of Kilim lies in its diverse natural geological, biological and cultural resources with high heritage value. It is also unique because it's the only place in Malaysia where one can find a coexistence of coastal karst and mangrove ecosystems. 
                         </p>
                         <p>VISITING <span>HOURS</span></p>
                         <ul class="list-group para">
+                           <li class="list-group-item list-group-item-secondary">
+                             <p>ABOUT <span>GEOFOREST PARK</span></p>
+                             <br>
+                            <p>
+                              A place with an ancient geological heritage, countless natural wonders, home to a myriad of flora and fauna, and a vibrant local community of Kilim Village. Kilim Geoforest Park (or Kilim Karst Geoforest Park as its full name) is one of the three geoforest parks associated with the Langkawi Geopark. The other two are the Machinchang Cambrian Geoforest Park and The Dayang Bunting Marble Geoforest Park.
+
+                              Langkawi Geopark comprises the whole of Langkawi Island, which is one of the districts of Kedah State, Malaysia. Langkawi started as a fishing village until its revelation as a UNESCO Geopark.
+
+                              Langkawi was endorsed as the 52nd Global Geopark by UNESCO on 1st June 2007, making it the 1st geopark in Malaysia and the South East Asia region. This endorsement was given due to its significant geoheritage features like landscapes, caves sea arches and sea stacks, dropstones, fossil and local community involvement.
+
+                              Langkawi Geopark is a member of the Asia Pacific Geoparks Network and The Global Geoparks Network (GGN).  
+                            </p>
+                            
+                          </li>
+                           <li class="list-group-item list-group-item-primary">
+                             <p>BEAUTY OF <span>KILIM GEOFOREST PARK</span></p>
+                             <br>
+                            <p>
+                              Not so long ago, Kilim was a laid back place where people’s activities are connected mainly to small scale fishing. Today, Kilim can be regarded as the most successful ecotourism destination in Langkawi where economic activities have vastly improved.
+
+                              The beauty of Kilim lies in its diverse natural geological, biological and cultural resources with high heritage value. These elements have been the pillars for the success of Kilim’s ecotourism.
+
+                              Among the remarkable features found here are the pristine mangrove and limestone forests, dramatic karstic landscapes and landform and colourful cultures.
+
+                              Kilim is also unique because it is the only place in Malaysia where one can find a coexistence of coastal karst and mangrove ecosystems.
+
+                              These unique landscapes provide new experience to tourists who flock this area to observe a wide spectrum of geological heritage diversity, such as various types of rock, beautiful caves, coastal and island karst morphologies, fossils, as well as rich mangrove fauna and flora.
+                            </p>
+                            
+                          </li>
                           <li class="list-group-item list-group-item-secondary">
                             <p>
                               Everyday from 8am to 6pm 
                             </p>
                             
                           </li>
+                          
                           
                         </ul>
                         <br />
