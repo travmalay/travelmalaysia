@@ -728,13 +728,17 @@
                             </p>
                             
                           </li>
-                          
+                           <li class="list-group-item list-group-item-secondary">
+                            <p>TICKET <span>PRICE</span></p>
+                            <p>
+                               Please visit their official website link provided here to know the ticket price, buying ticket online and every details about the tour. 
+                            </p>
+                            
+                          </li>
                           
                         </ul>
                         <br />
-                        <p>TICKET <span>price</span><br>
-                        Please visit their official website link provided here to know the ticket price, buying ticket online and every details about the tour.  
-                        </p>
+                        
                         <div class="container para">
 
                         <p>
