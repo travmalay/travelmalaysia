@@ -997,6 +997,115 @@
               </div>
             </div>
           </div>
+          
+          <div class="col mb-4">
+            <div class="card">
+              <img  style="height:360px;" src="image/colmarnew.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+              <button
+                  type="button"
+                  class="btn btn-light"
+                  data-toggle="modal"
+                  data-target="#colmar"
+                ><h5 class="card-title">COLMAR TROPICALE</h5></button>
+                 <!-- Modal -->
+               <div
+                  class="modal fade"
+                  id="colmar"
+                  data-backdrop="static"
+                  data-keyboard="false"
+                  tabindex="-1"
+                  aria-labelledby="staticBackdropLabel"
+                  aria-hidden="true"
+                >
+                  <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h1
+                          class="modal-title"
+                          id="staticBackdropLabel"
+                          style="font-size:50px;"
+                        >
+                        COLMAR TROPICALE
+                        </h1>
+                        <button
+                          type="button"
+                          class="close"
+                          data-dismiss="modal"
+                          aria-label="Close"
+                        >
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      
+                      <div class="modal-body" style="font-size:20px;">
+                        <div class="embed-responsive embed-responsive-16by9">
+                          <iframe
+                            class="embed-responsive-item"
+                            src="https://www.youtube.com/embed/Mrk5XMCLfW4"
+                            allowfullscreen
+                          ></iframe>
+                        </div>
+
+                        <p class="para">
+                        Colmar Tropicale is a picturesque French-themed resort with fantasy-like surrounds, settling at 2,700 feet above sea level amidst 80 acres of natural rainforest in Bukit Tinggi, Pahang. This village, situated in verdant highlands in Kuala Lumpur, is modelled after the lovely 18th century city of Colmar in Alsace, France and houses quaint French cafés, art galleries, lively street performances, and plenty of exciting activities for visitors of all ages – great for a short weekend getaway from KL city.</p>
+                       
+                        <br />
+                        <ul>
+                        <li class="list-group-item list-group-item-secondary">
+                          <span>ACTIVITIES </span><p>
+                          A medieval French village in the middle of a Malaysian rainforest, Colmar Tropicale features a castle drawbridge which leads to a massive cobblestone courtyard filled with colourful flowers, park benches, a water fountain, wishing well, and an intricate cuckoo clock tower that’s inspired by France’s Riquewihr Tower.
+
+                          Offering a day of fun-filled activities for kids, Colmar Tropicale has a children’s playground and playroom, arcade machines, clown performances, and street performances by local and international artists. There are also plenty of retail stores in the main courtyard, where guests can purchase unique handicrafts for loved ones back home while adventure seekers can participate in various recreational activities such as horseback riding, jungle trekking, paintball, mountain biking, water volleyball, and archery.
+                          </li>
+                          <li class="list-group-item list-group-item-primary">
+                          <span>RESTAURANT </span><p>
+                          For dining, Colmar Tropicale has seven French-themed eateries that cater to almost every budget level. La Cigogne is a fine dining restaurant that serves authentic French cuisine while La Boulengarie is a French bakery with homemade sandwiches and freshly-brewed coffee. Great for laidback evenings, diners can enjoy a wide range of imported wines at Le Vin Wine & Cigar Bar or enjoy fresh pizza and pastas at La Flamme.
+                          </li>
+                        <li class="list-group-item list-group-item-secondary">
+                          <span>ENTRANCE FEE </span><p>
+                          Entrance fee to Colmar Tropicale is priced at RM12 for adults and RM8 for children aged between 4 and 12. To get to Colmar Tropicale, there’s a shuttle service from Berjaya Times Square in Bukit Bintang and tickets are priced at RM55 for adults and RM50 for children for a return journey (inclusive of entrance fee for Colmar Tropicale and Japanese Village). Alternatively, visitors can opt for hotel transfer services at Genting Highlands, KLIA, and Petaling Jaya.
+                          </li>
+                          
+                         
+                          
+                          </ul>
+                          <br>
+                         <span>ADDRESS: </span><p>KM48, Persimpangan Bertingkat Lebuhraya Karak, Bukit Tinggi, Pahang</p>
+                        <br />
+                        <a href="https://www.colmartropicale.com.my/">VISIT WEBSITE</a>
+                        <br><br>
+                        
+                        <div class="container para">
+                         
+                          
+                         <br><br>
+                         <div class="fb-like" data-href="https://travelhmalaysia.000webhostapp.com/genting.php" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+                          <br><br>
+                          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                          <div class="addthis_inline_share_toolbox_ssp4"></div>
+                          <br><br>
+                          
+                        </div>
+                      </div>
+                      <div class="modal-footer">
+                        <button
+                          type="button"
+                          class="btn btn-secondary"
+                          data-dismiss="modal"
+                        >
+                          Close
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          
+          
         </div>
       </div>
     </div>
