@@ -1061,6 +1061,133 @@
               </div>
             </div>
           </div>
+
+          <div class="col mb-4">
+            <div class="card">
+              <img  style="height:360px;" src="image/putih1.jpeg" class="card-img-top" alt="..." />
+              <div class="card-body">
+              <button
+                  type="button"
+                  class="btn btn-light"
+                  data-toggle="modal"
+                  data-target="#putih"
+                ><h5 class="card-title">BUKIT BATU PUTIH</h5></button>
+                 <!-- Modal -->
+               <div
+                  class="modal fade"
+                  id="putih"
+                  data-backdrop="static"
+                  data-keyboard="false"
+                  tabindex="-1"
+                  aria-labelledby="staticBackdropLabel"
+                  aria-hidden="true"
+                >
+                  <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h1
+                          class="modal-title"
+                          id="staticBackdropLabel"
+                          style="font-size:50px;"
+                        >
+                        BUKIT BATU PUTIH
+                        </h1>
+                        <button
+                          type="button"
+                          class="close"
+                          data-dismiss="modal"
+                          aria-label="Close"
+                        >
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      
+                      <div class="modal-body" style="font-size:20px;">
+                        <div class="embed-responsive embed-responsive-16by9">
+                          <iframe
+                            class="embed-responsive-item"
+                            src="https://www.youtube.com/embed/VAqngjA7KaM"
+                            allowfullscreen
+                          ></iframe>
+                        </div>
+
+                        <p class="para">
+                        For views alone, Bukit Batu Putih should top your list. Part of a 200 million year old quartz ridge, this promontory is surrounded by one of the country’s last remaining coastal rainforests, has near pristine blue bays to either side of it, and the straits in front of it stretching for miles until it fades out of sight.
+
+                        The other reason to visit Bukit Batu Putih is its accessibility. Technically in Melaka it is located on the fringes of Port Dickson in Negeri Sembilan, and as hikes go it’s a short one regardless of which route you choose: beach or forest.</p>
+                       
+                        <br />
+                        <ul>
+                        <li class="list-group-item list-group-item-secondary">
+                          <span>TRAILs or ROUTES </span><p>
+                          Although both start from within Tanjung Tuan Forest Reserve, the forest route is the shortest and easiest, taking no more than 40 minutes, and starts further up the tarmac road, just under the lighthouse.
+
+                          At one hour or so, the beach route is longer and harder though considerably more dramatic. Exiting the tarmac road earlier on, it takes  you through the forest down towards the beautiful and deserted Monkey Bay, where you’ll get a flash of the hill’s stony white length peeking out from under the lush green of the scrub. You’ll then have to make your way toward its peak via a steep jungle trail which is passable only during low tide, so checking the tides in advance is a must. The currents here are known to be strong so swimming or wading it may not be an option.
+
+                         
+                          </li>
+                          <li class="list-group-item list-group-item-primary">
+                          <span>Tanjung Tuan Recreational Forest gate to trailhead </span><p>
+                          20 minutes.</p>
+
+                          <span>Trailhead to rocky outcrop and peak </span><p>
+                          10 to 15 minutes.</p>
+
+                          <span>Time  </span><p>
+                          35 minutes one way.</p>
+
+                          <span>Rating </span><p>
+                          Easy with a little rock climbing towards the end, not suitable for children under 6 years of age.</p>
+
+                        
+                          </li>
+                        <li class="list-group-item list-group-item-secondary">
+                          <span>FACILITIES </span><p>
+                          Toilets are located near the entrance to Tanjung Tuan Recreational Forest and parking is available next to PNB Ilham Resort. At the weekends ice cream vendors congregate at the park entrance, while drinks are sometimes sold at the lighthouse steps.
+                          </li>
+
+                          <li class="list-group-item list-group-item-secondary">
+                          <span>ADMISSION </span><p>
+                          RM1. Tanjung Tuan Recreational Forest is open daily from 7am to 6pm.</p>
+
+                          <span>GETTING THERE </span><p>
+                          Chart a course for <a href="https://www.forestry.gov.my/index.php/my/melaka/taman-eko-rimba-tanjung-tuan">Tanjung Tuan Recreation Forest<a> or <a href="http://ww12.ilhamresort.com/">PNB Ilham Resort.</a></p>
+                          </li>
+                          
+                         
+                          
+                          </ul>
+                          <br>
+                        
+                        <a href="https://www.havehalalwilltravel.com/bukit-batu-putih-tanjung-tuan">VISIT WEBSITE</a>
+                        <br><br>
+                        
+                        <div class="container para">
+                         
+                          
+                         
+                          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                          <div class="addthis_inline_share_toolbox_ssp4"></div>
+                          <br><br>
+                          
+                        </div>
+                      </div>
+                      <div class="modal-footer">
+                        <button
+                          type="button"
+                          class="btn btn-secondary"
+                          data-dismiss="modal"
+                        >
+                          Close
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+         
         </div>
       </div>
     </div>
