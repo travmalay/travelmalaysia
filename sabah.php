@@ -2104,6 +2104,143 @@ Sabah has abundant natural resources, and its economy is strongly export oriente
               </div>
             </div>
           </div>
+          
+           <div class="col mb-4">
+            <div class="card">
+              <img  style="height:360px;" src="image/kundasang1.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+              <button
+                  type="button"
+                  class="btn btn-light"
+                  data-toggle="modal"
+                  data-target="#kunda"
+                ><h5 class="card-title">KUNDASANG</h5></button>
+                 <!-- Modal -->
+               <div
+                  class="modal fade"
+                  id="kunda"
+                  data-backdrop="static"
+                  data-keyboard="false"
+                  tabindex="-1"
+                  aria-labelledby="staticBackdropLabel"
+                  aria-hidden="true"
+                >
+                  <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h1
+                          class="modal-title"
+                          id="staticBackdropLabel"
+                          style="font-size:50px;"
+                        >
+                        KUNDASANG
+                        </h1>
+                        <button
+                          type="button"
+                          class="close"
+                          data-dismiss="modal"
+                          aria-label="Close"
+                        >
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      
+                      <div class="modal-body" style="font-size:20px;">
+                        <div class="embed-responsive embed-responsive-16by9">
+                          <iframe
+                            class="embed-responsive-item"
+                            src="https://www.youtube.com/embed/SbnDLxuzWJQ"
+                            allowfullscreen
+                          ></iframe>
+                        </div>
+
+                        <p class="para">
+                        Kundasang is a town in the district of Ranau in Sabah, Malaysia that lies along the bank of Kundasang Valley. It is located about 6 kilometres away from Kinabalu National Park, 12 kilometres from Ranau town and is renowned for its vegetable market which is open seven days a week. It is the closest town to Mount Kinabalu and has a panoramic view of the Mountain. It is populated mainly by the native Dusun and a small population of Chinese people. Almost all the shops are operated by locals.
+
+                        At an elevation of almost 1,900m (6,200ft), it is the highest settlement in Malaysia.</p>
+                       
+                        <br />
+                        <ul>
+                        <li class="list-group-item list-group-item-secondary">
+                          <span>GET IN </span><p>Kundasang is located on the main road between Kota Kinabalu (~100km) and Ranau, 6km after the Mt Kinabalu Park entrance.</p>
+                          <span>SELF DRIVE</span>
+                          <p>
+                          Self-drive is easy from Kota Kinabalu with a mostly decent bitumen road and adequate sign posting. It does become mountainous and windy on approach but also very scenic. The journey from KK is about 90-100km and takes approximately 2 hours depending on how confident you are overtaking very slow trucks doing 20 km/hr. Exercise patience and caution as locals do overtake on blind corners, over double lines, and occasionally with on coming traffic.</p>
+                          <span>BY BUS </span><p>Buses from Kota Kinabalu or Ranau are available.</p>
+                          <span>BY TAXI </span><p>Long range taxis from Kota Kinabalu or Ranau are another option.</p>
+                         
+                          </li>
+                          <li class="list-group-item list-group-item-primary">
+                          <span>THINGS TO DO </span>
+                           <br>
+                          <span>DESA CATTLE FIRM </span><p>
+                          where you can see real dairy cows and try its products. It has amazing vistas. Accecible by car, taxi, hitchhicking or walking 5 km (most of them going up) from kundasang. Entrace fee 5 RM.</p>
+
+                          <img src="image/desadairy.jpg" class="img-fluid" alt="Responsive image">
+                          <br><br>
+                          <p>
+                          These lush green hills overlooking a dairy farm is not the New Zealand outback; this is Desa Dairy Farm in Kundasang, Sabah.</p>
+
+                          <span>SABAH TEA GARDEN  </span><p>
+                          <img src="image/sabahtea.jpg" class="img-fluid" alt="Responsive image">
+                          Whether you’re a tea person or not, you will appreciate a trip to the sprawling tea plantation in the cool mountain air. Take a tour at the Tea Factory at an additional fee to watch how tea is processed. For the adventurous, trek along the trails to the peak of Kamunsu Hill in the early hours to catch a magnificent view of sunrise or embark on a night walk to check out unique insect species.</p>
+
+                          <span>SOSODIKON HILL </span><p>
+                          Sosodikon Hill is better to follow the navigation charter. The local guide is most familiar with the road conditions. It is suitable for in-depth tours and those who are deeply interested in plants. The gifts of nature here are very rich and it is worth paying.
+                          <br>
+                          Address: Kg Kauluan Peti Surat 873, 89308 Kundasang, Sabah, Malaysia
+                          <br>
+                          <a href="https://www.facebook.com/sosodikonhill/">VISIT FACEBOOK PAGE</a>
+                          </p>
+
+                          <img src="image/soso1.jpg" class="img-fluid" alt="Responsive image">
+                          </li>
+                        <li class="list-group-item list-group-item-secondary">
+                        <span>fresh market of Kundasang </span><p>
+                          Once a quiet village, the now small town of Kundasang is home to independent traders selling produce harvested from the farmland nearby. Visitors will not miss the Kundasang fresh market, a stretch of stalls along the Kundasang-Ranau highway.</p>
+                          <span>Tandem Paragliding Ranau </span><p>
+                          To compulsive thrill seekers, the sky is the limit. With nothing between you and the sky, Tandem Paragliding Ranau gives you the wings to fly like a wild bird.
+
+                          Fee: RM190 (Malaysian), RM250 (non-Malaysian)<br>
+                          Operation Hours: 10am to 5.30pm
+                          </li>
+
+                          
+                         
+                          
+                          </ul>
+                          <br>
+                        
+                        <a href="https://pickyourtrail.com/blog/things-to-do-kundasang-sabah/">VISIT WEBSITE</a>
+                        <br><br>
+                        
+                        <div class="container para">
+                         
+                          
+                         
+                          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                          <div class="addthis_inline_share_toolbox_ssp4"></div>
+                          <br><br>
+                          
+                        </div>
+                      </div>
+                      <div class="modal-footer">
+                        <button
+                          type="button"
+                          class="btn btn-secondary"
+                          data-dismiss="modal"
+                        >
+                          Close
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          
         </div>
       </div>
     </div>
