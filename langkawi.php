@@ -1124,6 +1124,135 @@
               </div>
             </div>
           </div>
+          
+          <div class="col mb-4">
+            <div class="card">
+              <img  style="height:360px;" src="image/kodiang6.jpeg" class="card-img-top" alt="..." />
+              <div class="card-body">
+              <button
+                  type="button"
+                  class="btn btn-light"
+                  data-toggle="modal"
+                  data-target="#kodia"
+                ><h5 class="card-title">BUKIT KODIANG / BUKIT MOK CUN</h5></button>
+                 <!-- Modal -->
+               <div
+                  class="modal fade"
+                  id="kodia"
+                  data-backdrop="static"
+                  data-keyboard="false"
+                  tabindex="-1"
+                  aria-labelledby="staticBackdropLabel"
+                  aria-hidden="true"
+                >
+                  <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h1
+                          class="modal-title"
+                          id="staticBackdropLabel"
+                          style="font-size:50px;"
+                        >
+                        BUKIT KODIANG
+                        </h1>
+                        <button
+                          type="button"
+                          class="close"
+                          data-dismiss="modal"
+                          aria-label="Close"
+                        >
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      
+                      <div class="modal-body" style="font-size:20px;">
+                        <div class="embed-responsive embed-responsive-16by9">
+                          <iframe
+                            class="embed-responsive-item"
+                            src="https://www.youtube.com/embed/zidg8m_e6vg"
+                            allowfullscreen
+                          ></iframe>
+                        </div>
+
+                        <p class="para">
+                        Bukit Kodiang also known as Bukit Mok Cun or Bukit Hantu is well-known recently for its panaromic scenic view of paddy field from high up the hill. It is located in Kedah in a small rural area named Kodiang (Kampung Kodiang Lama), nearby Kodiang KTM station.</p>
+                       
+                        <br />
+                        <ul>
+                        <li class="list-group-item list-group-item-secondary">
+                          <span>what is so special with it? </span><p>Bukit Kodiang is one of the hill that you can have a look of a full view of paddy field high from the summit & the scenery is fabulous! The beautiful-ness is just out of description. Here is one of the hiking destination you should come if you are a nature lover.
+                          If you are lucky enough, you can even witness the train passing through the middle of paddy fields. <br>
+                          <span>Height:</span> 140 meter (460 feet)<br>
+                          <span>Time:</span> Normally 20 to 45 minutes depends on personal fitness<br>
+                          <span>Difficulty Level :</span> 8.5/10
+                          </p>
+                          
+                         
+                          </li>
+                          <img src="image/kodiang1.jpg" class="img-fluid" alt="Responsive image">
+                          <li class="list-group-item list-group-item-primary">
+                          <span>How to get there? </span>
+                           <p>
+                           You can use waze "Bukit Kodiang" directly to reach here.
+                            
+
+                            You can park your car on a parking lot just right before the entrance.
+                            RM2 of parking fee is needed. </p>
+
+
+                          <span>Is it dangerous?  </span><p>
+                          For a first timer, YES it is very dangerous.
+                          While for those who are confident enough, NO WORRY, you still can go by your own as the trek is clear and also come with ropes tying everywhere, just make sure to be extra careful. <br>
+
+                          And for those with acrophobia, here is a good place for you to conquer your fear!<br>
+
+                          Starting of the trek is some muddy road with 60-75 degree steepness. After around 15-20 minutes of hiking, here comes the adventurous part. The trek comes with steepness of almost 90 degree and are mostly rocks and ropes to climb up. So basically, it is more of rock climbing rather than hiking. (HAHA) 
+                           <br>
+                          Although the trek is short, but you will need good stamina and fitness to climb the hill as it requires quite good strength to pull yourself up with the rope & climb up the rocks.</p>
+
+                          <span>When is the best time to come? </span><p>
+                          If you want to look for the greenery view of paddy field, you can pay a visit start from December to early January (Best at mid of December).
+                          <br>
+                          <span>Address:</span><br> Kampung Kandis, 06100 Kodiang, Kedah, Malaysia
+
+                          
+                          </p>
+
+                          
+                          </li>
+                        
+                          </ul>
+                          <br>
+                        
+                        <a href="https://penangfoodie.com/bukit-kodiang-kedah-hiking-trail/">VISIT WEBSITE</a>
+                        <br><br>
+                        
+                        <div class="container para">
+                         
+                          
+                         
+                          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                          <div class="addthis_inline_share_toolbox_ssp4"></div>
+                          <br><br>
+                          
+                        </div>
+                      </div>
+                      <div class="modal-footer">
+                        <button
+                          type="button"
+                          class="btn btn-secondary"
+                          data-dismiss="modal"
+                        >
+                          Close
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
         </div>
       </div>
     </div>
