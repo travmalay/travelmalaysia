@@ -1957,6 +1957,88 @@
                 </div>
               </div>
             </div>
+          
+          <div class="col mb-4">
+            <div class="card">
+              <img  style="height:360px;" src="image/tasikweb.jpg" class="card-img-top" alt="..." />
+              <div class="card-body">
+              <button
+                  type="button"
+                  class="btn btn-light"
+                  data-toggle="modal"
+                  data-target="#besi"
+                ><h5 class="card-title">TASIK PUTERI BUKIT BESI</h5></button>
+                 <!-- Modal -->
+               <div
+                  class="modal fade"
+                  id="besi"
+                  data-backdrop="static"
+                  data-keyboard="false"
+                  tabindex="-1"
+                  aria-labelledby="staticBackdropLabel"
+                  aria-hidden="true"
+                >
+                  <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h1
+                          class="modal-title"
+                          id="staticBackdropLabel"
+                          style="font-size:50px;"
+                        >
+                        TASIK PUTERI BUKIT BESI
+                        </h1>
+                        <button
+                          type="button"
+                          class="close"
+                          data-dismiss="modal"
+                          aria-label="Close"
+                        >
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      
+                      <div class="modal-body" style="font-size:20px;">
+                        <div class="embed-responsive embed-responsive-16by9">
+                          <iframe
+                            class="embed-responsive-item"
+                            src="https://www.youtube.com/embed/CU5sS4uXDus"
+                            allowfullscreen
+                          ></iframe>
+                        </div>
+
+                        <p class="para">
+                        Bukit Besi is a small mining town in Dungun, Terengganu, Malaysia, famous for its high quality iron ore. The iron content of Bukit Besi's iron ore is more than 70%, Malaysia's highest known grade of iron ore, making it a very high grade and sought after iron ore. Bukit Besi waterfall is a nice place to hang out. Water here quite clear and suitable for swimming. It is a nice place to take insta pictures. You can bring your own food and do picnic here.</p>
+                       
+                        <br />
+                        
+                        
+                        <div class="container para">
+                         
+                          
+                         
+                          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                          <div class="addthis_inline_share_toolbox_ssp4"></div>
+                          <br><br>
+                          
+                        </div>
+                      </div>
+                      <div class="modal-footer">
+                        <button
+                          type="button"
+                          class="btn btn-secondary"
+                          data-dismiss="modal"
+                        >
+                          Close
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
           </div>
         </div>
       </div>
