@@ -595,7 +595,7 @@
   <h1 class="display-4">Please give us your valuable feedback</h1>
   <p class="lead">If you find these informations valuable and if it helps you to make your travel hassle free then please do not forget to press the like button and comment your experiences here</p>
   
-  <div class="fb-like" data-href="https://travelhmalaysia.000webhostapp.com/terengganu.php" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+  <div class="fb-like" data-href="https://travelhmalaysia.herokuapp.com/Johor.php" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
 <br><br>
    <!-- Go to www.addthis.com/dashboard to customize your tools -->
    <div class="addthis_inline_share_toolbox_ssp4"></div>
