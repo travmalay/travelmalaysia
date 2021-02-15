@@ -595,7 +595,10 @@
   <h1 class="display-4">Please give us your valuable feedback</h1>
   <p class="lead">If you find these informations valuable and if it helps you to make your travel hassle free then please do not forget to press the like button and comment your experiences here</p>
   
-  <div class="fb-like" data-href="https://travelhmalaysia.herokuapp.com/Johor.php" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+   <!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="custom" data-btn_size="35" data-icon_l_c_v="#0534fb" data-icon_d_c_v="#fb054f" data-identifier="item_1"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
 <br><br>
    <!-- Go to www.addthis.com/dashboard to customize your tools -->
    <div class="addthis_inline_share_toolbox_ssp4"></div>
