@@ -46,7 +46,8 @@
     <title>Travel Blog</title>
   </head>
   <body>
-  
+  <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0&appId=785790285105320&autoLogAppEvents=1" nonce="zKOQqBYM"></script>
       <!--comment-->
   <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=785790285105320&autoLogAppEvents=1" nonce="De6IImIY"></script>
@@ -1433,7 +1434,7 @@
    <!-- Go to www.addthis.com/dashboard to customize your tools -->
    <div class="addthis_inline_share_toolbox_ssp4"></div>
 
-  <div class="fb-comments" data-href="http://localhost/hafizurrahmananik.php" data-numposts="" data-width=""></div>
+  <div class="fb-comments" data-href="https://travelmalaysia-0c83d610e294.herokuapp.com/sarawak.php" data-width="" data-numposts=""></div>
 </div>
    
     <!-- footer section start -->
