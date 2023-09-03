@@ -604,7 +604,7 @@
    <!-- Go to www.addthis.com/dashboard to customize your tools -->
    <div class="addthis_inline_share_toolbox_ssp4"></div>
 
-  <div class="fb-comments" data-href="https://travelmalaysia-0c83d610e294.herokuapp.com/Johor.php" mobile="data-mobile" data-width="" data-numposts=""></div>
+  <div class="fb-comments" data-href="https://travelmalaysia-0c83d610e294.herokuapp.com/Johor.php" data-width="" data-numposts=""></div>
 </div>
    
     <!-- footer section start -->
