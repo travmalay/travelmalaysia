@@ -47,7 +47,7 @@
   </head>
   <body>
    <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" mobile="data-mobile" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0&appId=785790285105320&autoLogAppEvents=1" nonce="pAmPcmOL"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0&appId=785790285105320&autoLogAppEvents=1" nonce="pAmPcmOL"></script>
       <!--comment-->
   <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=785790285105320&autoLogAppEvents=1" nonce="De6IImIY"></script>
